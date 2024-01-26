@@ -41,15 +41,15 @@ const PrivacyPolicy = () => {
                             <li>
                                 Affiliate means an entity that controls, is
                                 controlled by or is under common control with a
-                                party, where &quot;control&quot; means ownership
+                                party, where "control" means ownership
                                 of 50% or more of the shares, equity interest or
                                 other securities entitled to vote for election
                                 of directors or other managing authority.
                             </li>
                             <li>
-                                Company (referred to as either &quot;the
-                                Company&quot;, &quot;We&quot;, &quot;Us&quot; or
-                                &quot;Our&quot; in this Agreement) refers to
+                                Company (referred to as either "the
+                                Company", "We", "Us" or
+                                "Our" in this Agreement) refers to
                                 anime news.
                             </li>
                             <li>
@@ -81,7 +81,7 @@ const PrivacyPolicy = () => {
                         className="mt-4"
                     >
                         Your information, including Personal Data, is processed
-                        at the Company&apos;s operating offices and in any other
+                        at the Company's operating offices and in any other
                         places where the parties involved in the processing are
                         located. It means that this information may be
                         transferred to — and maintained on — computers located
